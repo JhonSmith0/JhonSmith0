@@ -33,19 +33,16 @@
 
 # Languages & Tools 👨‍💻 🛠:
 
- <img align="left" alt="HTML5" width="130" height="38" src="./svg/html5.svg" />
- <img align="left" alt="CSS" width="130" height="38" src="svg/svg.svg" />
- <img align="left" alt="JAVASCRIPT" width="130" height="38" src=" 	svg/../svg/js.svg" />
- <img align="left" alt="TYPESCRIPT" width="130" height="38" src="./svg/ts.svg" />
- <img align="left" alt="REACT" width="130" height="38" src="./svg/react.svg" />
- <img align="left" alt="NEXTJS" width="130" height="38" src="./svg/nextjs.svg" />
- <img align="left" alt="PYTHON" width="130" height="38" src="svg/python.svg" />
- <img align="left" alt="GIT" width="130" height="38" src="./svg/git22.svg" />
-<br>
-<br>
-<br>
-<br>
-<br>
+<img align="center" alt="jhonsmith0-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="jhonsmith0-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="jhonsmith0-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
+  <img align="center" alt="jhonsmith0-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+
+  <img align="center" alt="jhonsmith0-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="jhonsmith0-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="jhonsmith0-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
 <br>
 
 # Contact Me :
