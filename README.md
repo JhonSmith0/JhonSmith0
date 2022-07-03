@@ -34,29 +34,29 @@
 # Languages & Tools 👨‍💻 🛠:
 
 <a href="#">
- <img align="left" style="margin: 3px;" alt="HTML5" width="130" height="38" src="./svg/html5.svg" />
+ <img align="left" style="margin: 1px;" alt="HTML5" width="130" height="38" src="./svg/html5.svg" />
 </a>
 
 <a href="#">
- <img align="left" style="margin: 3px;" alt="CSS" width="130" height="38" src="svg/svg.svg" />
+ <img align="left" style="margin: 1px;" alt="CSS" width="130" height="38" src="svg/svg.svg" />
 </a>
 <a href="#">
- <img align="left" style="margin: 3px;" alt="JAVASCRIPT" width="130" height="38" src=" 	svg/../svg/js.svg" />
+ <img align="left" style="margin: 1px;" alt="JAVASCRIPT" width="130" height="38" src=" 	svg/../svg/js.svg" />
 </a>
 <a href="#">
- <img align="left" style="margin: 3px;" alt="TYPESCRIPT" width="130" height="38" src="./svg/ts.svg" />
+ <img align="left" style="margin: 1px;" alt="TYPESCRIPT" width="130" height="38" src="./svg/ts.svg" />
 </a>
 <a href="#">
- <img align="left" style="margin: 3px;" alt="REACT" width="130" height="38" src="./svg/react.svg" />
+ <img align="left" style="margin: 1px;" alt="REACT" width="130" height="38" src="./svg/react.svg" />
 </a>
 <a href="#">
- <img align="left" style="margin: 3px;" alt="NEXTJS" width="130" height="38" src="./svg/nextjs.svg" />
+ <img align="left" style="margin: 1px;" alt="NEXTJS" width="130" height="38" src="./svg/nextjs.svg" />
 </a>
 <a href="#">
- <img align="left" style="margin: 3px;" alt="PYTHON" width="130" height="38" src="svg/python.svg" />
+ <img align="left" style="margin: 1px;" alt="PYTHON" width="130" height="38" src="svg/python.svg" />
 </a>
 <a href="#">
- <img align="left" style="margin: 3px;" alt="GIT" width="130" height="38" src="./svg/git22.svg" />
+ <img align="left" style="margin: 1px;" alt="GIT" width="130" height="38" src="./svg/git22.svg" />
 </a>
 
 <br>
@@ -77,18 +77,18 @@
 <br>
 
 <a href="smith#6321">
- <img align="left" style="margin: 3px" alt="Discord" width="130" height="38" src="svg/discord.svg" />
+ <img align="left" style="margin: 1px" alt="Discord" width="130" height="38" src="svg/discord.svg" />
 </a>
 
 <a href="https://steamcommunity.com/id/contamainjhon/">
- <img align="left" style="margin: 3px" alt="Steam" width="130" height="38" src="./svg/steam.svg" />
+ <img align="left" style="margin: 1px" alt="Steam" width="130" height="38" src="./svg/steam.svg" />
 </a>
 <a href="mailto:zamuplays@gmail.com">
- <img align="left" style="margin: 3px" alt="Gmail" width="130" height="38" src="svg/gmail.svg" />
+ <img align="left" style="margin: 1px" alt="Gmail" width="130" height="38" src="svg/gmail.svg" />
 </a>
 
 <a href="https://www.instagram.com/jhon.s007/">
- <img align="left" style="margin: 3px" alt="Instagram" width="130" height="38" src="svg/instagram.svg" />
+ <img align="left" style="margin: 1px" alt="Instagram" width="130" height="38" src="svg/instagram.svg" />
 
 </a>
  </p>
