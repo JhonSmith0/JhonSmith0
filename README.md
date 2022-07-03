@@ -28,11 +28,10 @@
 <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg" >
 
 </br>
-</br>
-</br>
 
 # Languages & Tools 👨‍💻 🛠:
 
+<br>
 <div style="display:flex; height: 30px;">
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -46,7 +45,6 @@
    <img align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 </div>
-
 <br>
 
 # Contact Me :
