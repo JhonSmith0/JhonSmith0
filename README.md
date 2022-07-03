@@ -34,29 +34,29 @@
 # Languages & Tools 👨‍💻 🛠:
 
 <a href="#">
- <img align="left" style="margin: 3px;" alt="HTML5" width="130" height="38" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+ <img align="left" style="margin: 3px;" alt="HTML5" width="130" height="38" src="./svg/html5.svg" />
 </a>
 
 <a href="#">
- <img align="left" style="margin: 3px;" alt="CSS" width="130" height="38" src="svg/css.svg" />
+ <img align="left" style="margin: 3px;" alt="CSS" width="130" height="38" src="svg/svg.svg" />
 </a>
 <a href="#">
- <img align="left" style="margin: 3px;" alt="JAVASCRIPT" width="130" height="38" src=" 	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+ <img align="left" style="margin: 3px;" alt="JAVASCRIPT" width="130" height="38" src=" 	svg/../svg/js.svg" />
 </a>
 <a href="#">
- <img align="left" style="margin: 3px;" alt="TYPESCRIPT" width="130" height="38" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+ <img align="left" style="margin: 3px;" alt="TYPESCRIPT" width="130" height="38" src="./svg/ts.svg" />
 </a>
 <a href="#">
- <img align="left" style="margin: 3px;" alt="REACT" width="130" height="38" src=" 	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+ <img align="left" style="margin: 3px;" alt="REACT" width="130" height="38" src="./svg/react.svg" />
 </a>
 <a href="#">
- <img align="left" style="margin: 3px;" alt="NEXTJS" width="130" height="38" src=" 	 	https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)" />
+ <img align="left" style="margin: 3px;" alt="NEXTJS" width="130" height="38" src="./svg/nextjs.svg" />
 </a>
 <a href="#">
- <img align="left" style="margin: 3px;" alt="PYTHON" width="130" height="38" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+ <img align="left" style="margin: 3px;" alt="PYTHON" width="130" height="38" src="svg/python.svg" />
 </a>
 <a href="#">
- <img align="left" style="margin: 3px;" alt="GIT" width="130" height="38" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+ <img align="left" style="margin: 3px;" alt="GIT" width="130" height="38" src="./svg/git22.svg" />
 </a>
 
 <br>
@@ -77,21 +77,23 @@
 <br>
 
 <a href="smith#6321">
- <img align="left" style="margin: 3px" alt="Discord" width="130" height="38" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+ <img align="left" style="margin: 3px" alt="Discord" width="130" height="38" src="svg/discord.svg" />
 </a>
 
 <a href="https://steamcommunity.com/id/contamainjhon/">
- <img align="left" style="margin: 3px" alt="Steam" width="130" height="38" src=" 	https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+ <img align="left" style="margin: 3px" alt="Steam" width="130" height="38" src="./svg/steam.svg" />
 </a>
 <a href="mailto:zamuplays@gmail.com">
- <img align="left" style="margin: 3px" alt="Gmail" width="130" height="38" src=" 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+ <img align="left" style="margin: 3px" alt="Gmail" width="130" height="38" src="svg/gmail.svg" />
 </a>
 
 <a href="https://www.instagram.com/jhon.s007/">
- <img align="left" style="margin: 3px" alt="Instagram" width="130" height="38" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+ <img align="left" style="margin: 3px" alt="Instagram" width="130" height="38" src="svg/instagram.svg" />
+
 </a>
  </p>
 
+</br>
 </br>
 </br>
 </br>
