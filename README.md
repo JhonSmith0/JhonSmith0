@@ -56,7 +56,6 @@
 ### IF you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 </p>
-
 <br>
 
 <div style="display: flex; gap: 3px;">
@@ -72,12 +71,7 @@
 <a href="https://ww align="left" w.instagram.com/jhon.s007/">
  <img alt="Instagram" width="130" height="38" src="svg/instagram.svg" />
 </a>
- </p>
 </div>
-
-</br>
-</br>
-</br>
-</br>
+<br>
 
 ---
