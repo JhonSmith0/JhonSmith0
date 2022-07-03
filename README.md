@@ -10,8 +10,6 @@
 
 ### - I'm 18 years old Developer from Brazil.
 
-<br>
-
 ### - Learning :
 
 - ✨ React
