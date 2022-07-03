@@ -59,22 +59,21 @@
 
 <br>
 
+<div style="display: flex; gap: 3px;">
 <a href="smith#6321">
  <img align="left" alt="Discord" width="130" height="38" src="svg/discord.svg" />
 </a>
-
 <a href="https://steamcommunity.com/id/contamainjhon/">
  <img align="left" alt="Steam" width="130" height="38" src="./svg/steam.svg" />
 </a>
 <a href="mailto:zamuplays@gmail.com">
  <img align="left" alt="Gmail" width="130" height="38" src="svg/gmail.svg" />
 </a>
-
 <a href="https://www.instagram.com/jhon.s007/">
  <img align="left" alt="Instagram" width="130" height="38" src="svg/instagram.svg" />
-
 </a>
  </p>
+</div>
 
 </br>
 </br>
