@@ -34,29 +34,29 @@
 # Languages & Tools 👨‍💻 🛠:
 
 <a href="#">
- <img align="left" style="margin: 1px;" alt="HTML5" width="130" height="38" src="./svg/html5.svg" />
+ <img align="left" alt="HTML5" width="130" height="38" src="./svg/html5.svg" />
 </a>
 
 <a href="#">
- <img align="left" style="margin: 1px;" alt="CSS" width="130" height="38" src="svg/svg.svg" />
+ <img align="left" alt="CSS" width="130" height="38" src="svg/svg.svg" />
 </a>
 <a href="#">
- <img align="left" style="margin: 1px;" alt="JAVASCRIPT" width="130" height="38" src=" 	svg/../svg/js.svg" />
+ <img align="left" alt="JAVASCRIPT" width="130" height="38" src=" 	svg/../svg/js.svg" />
 </a>
 <a href="#">
- <img align="left" style="margin: 1px;" alt="TYPESCRIPT" width="130" height="38" src="./svg/ts.svg" />
+ <img align="left" alt="TYPESCRIPT" width="130" height="38" src="./svg/ts.svg" />
 </a>
 <a href="#">
- <img align="left" style="margin: 1px;" alt="REACT" width="130" height="38" src="./svg/react.svg" />
+ <img align="left" alt="REACT" width="130" height="38" src="./svg/react.svg" />
 </a>
 <a href="#">
- <img align="left" style="margin: 1px;" alt="NEXTJS" width="130" height="38" src="./svg/nextjs.svg" />
+ <img align="left" alt="NEXTJS" width="130" height="38" src="./svg/nextjs.svg" />
 </a>
 <a href="#">
- <img align="left" style="margin: 1px;" alt="PYTHON" width="130" height="38" src="svg/python.svg" />
+ <img align="left" alt="PYTHON" width="130" height="38" src="svg/python.svg" />
 </a>
 <a href="#">
- <img align="left" style="margin: 1px;" alt="GIT" width="130" height="38" src="./svg/git22.svg" />
+ <img align="left" alt="GIT" width="130" height="38" src="./svg/git22.svg" />
 </a>
 
 <br>
