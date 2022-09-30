@@ -60,10 +60,10 @@
 <a href="https://steamcommunit align="left" y.com/id/contamainjhon/">
  <img alt="Steam" width="130" height="38" src="./svg/steam.svg" />
 </a>
-<a href="mailto:zamuplays@gmai align="left" l.com">
+<a href="mailto:zamuplays@gmail.com">
  <img alt="Gmail" width="130" height="38" src="svg/gmail.svg" />
 </a>
-<a href="https://ww align="left" w.instagram.com/jhon.s007/">
+<a href="https://www.instagram.com/jhon.s007/">
  <img alt="Instagram" width="130" height="38" src="svg/instagram.svg" />
 </a>
 </div>
