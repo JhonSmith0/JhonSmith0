@@ -4,9 +4,9 @@
   <br>
   <br>
 </p>
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{JhonSmith0}/count.svg" /></p> 
+<div align="left">
+<br><p align="left"><b>Visitors Count</b></p>  
+<p align="left"><img align="center" src="https://profile-counter.glitch.me/{JhonSmith0}/count.svg" /></p> 
 <br></div>
 # About ME 💬 :
 
