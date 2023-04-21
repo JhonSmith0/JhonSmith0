@@ -6,7 +6,7 @@
 - 🌱 Estou sempre aprendendo coisas novas e buscando me aprimorar como desenvolvedor;
 - 💻 Possuo experiência com Clean Architecture, Testes Unitários (Jest), APIs RESTful e aplicações fullstack;
 - 💬 Sinta-se à vontade para entrar em contato comigo para bater um papo ou falar sobre projetos interessantes;
-- 📫 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/nelson-rodrigues-b74711248/).
+- 📫 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/nelson-rodrigues-smith/).
 
 ## 🚀 Minhas habilidades
 
