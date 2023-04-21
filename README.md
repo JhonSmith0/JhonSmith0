@@ -1,77 +1,39 @@
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=jhonsmith0&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonsmith0&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <br>
-  <br>
-</p>
-<div align="left">
-<br><p align="left"><b>Visitors Count</b></p>  
-<p align="left"><img align="center" src="https://profile-counter.glitch.me/{JhonSmith0}/count.svg" /></p> 
-<br></div>
+# 👋 Olá, eu sou o Nelson Rodrigues, mas você pode me chamar de Smith!
 
-# About ME 💬 :
-### - I'm 18 years old Developer from Brazil.
+## 👨‍💻 Sobre mim
 
-### - Learning :
+- 👀 Atualmente estou interessado em projetos relacionados a desenvolvimento fullstack e tecnologias como React, Node.js e TypeScript;
+- 🌱 Estou sempre aprendendo coisas novas e buscando me aprimorar como desenvolvedor;
+- 💻 Possuo experiência com Clean Architecture, Testes Unitários (Jest), APIs RESTful e aplicações fullstack;
+- 💬 Sinta-se à vontade para entrar em contato comigo para bater um papo ou falar sobre projetos interessantes;
+- 📫 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/nelson-rodrigues-b74711248/).
 
-- ✨ React
-- ✨ NextJS
-- ✨ TypeScript
+## 🚀 Minhas habilidades
 
-### - Hobbies :
+### Linguagens de programação
 
-- ✨ Studying
-- ✨ Watching Anime
-- ✨ Calisthenics
-- ✨ Philosopy
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg" >
+### Frameworks e ferramentas
 
-</br>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
-# Languages & Tools 👨‍💻 🛠:
+### Banco de dados
 
-<div style="display:flex; height: 30px;">
-<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+## 📈 Estatísticas do meu GitHub
 
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+![Estatísticas do GitHub do Nelson Rodrigues](https://github-readme-stats.vercel.app/api?username=jhonsmith0&show_icons=true&theme=radical)
 
-</div>
+## 📊 Linguagens mais usadas nos meus projetos
 
-<br>
-
-# Contact Me :
-
-<p style="margin-bottom: 32px">
-
-### IF you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-
-</p>
-<br>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
-<div style="display: flex; gap: 3px;">
-<a href="smith#6321" align="left" >
- <img alt="Discord" width="130" height="38" src="svg/discord.svg" />
-</a>
-<a href="https://steamcommunit align="left" y.com/id/contamainjhon/">
- <img alt="Steam" width="130" height="38" src="./svg/steam.svg" />
-</a>
-<a href="mailto:zamuplays@gmail.com">
- <img alt="Gmail" width="130" height="38" src="svg/gmail.svg" />
-</a>
-<a href="https://www.instagram.com/jhon.s007/">
- <img alt="Instagram" width="130" height="38" src="svg/instagram.svg" />
-</a>
-</div>
-<br>
-
-
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonsmith0&theme=radical&layout=compact)
