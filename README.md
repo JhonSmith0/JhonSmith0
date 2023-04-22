@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Nelson Rodrigues, mas você pode me chamar de Smith!
+# 👋 Olá, eu sou o Nelson, mas você pode me chamar de Smith!
 
 ## 👨‍💻 Sobre mim
 
