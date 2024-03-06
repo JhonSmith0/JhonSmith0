@@ -1,41 +1,34 @@
-# 👋 Olá, eu sou o Nelson, mas você pode me chamar de Smith!
+# Nelson Rodrigues
 
-## 👨‍💻 Sobre mim
+🚀 **Full-Stack Developer at Senai Soluções Digitais** |
 
-- 👀 Atualmente estou interessado em projetos relacionados a desenvolvimento fullstack e tecnologias como React, Node.js e TypeScript;
-- 🌱 Estou sempre aprendendo coisas novas e buscando me aprimorar como desenvolvedor;
-- 💻 Possuo experiência com Clean Architecture, Testes Unitários (Jest), APIs RESTful e aplicações fullstack;
-- 💬 Sinta-se à vontade para entrar em contato comigo para bater um papo ou falar sobre projetos interessantes;
-- 📫 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/nelson-rodrigues-smith/).
+ 💻 **PHP** | 🛠️ **Laravel** | 🖥️ **Vue.js** | 🔍 **TypeScript** | 📝 **JavaScript** | 🗃️ **PostgreSQL** | 📊 **SQL** | 🐍 **Python** | 🚀 **NestJS** | 🎨 **Prisma** | 🚀 **Express** | ⚛️ **React** | ⏭️ **Next.js** | 🔄 **Nuxt.js** | 🌐 **Desenvolvimento de API**
 
-## 🚀 Minhas habilidades
+---
 
-### Linguagens de programação
+## Sobre Mim
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+Trabalho atualmente como desenvolvedor full-stack no Senai Soluções Digitais, onde utilizo primariamente PHP e Vue.js atuando tanto no backend quanto no front end
 
-### Frameworks e ferramentas
+## Habilidades Principais
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+- **PHP & Laravel**: Expertise em construir sistemas backend robustos e aplicativos web.
+- **Vue.js & React**: Proficiente em criar interfaces de usuário dinâmicas e interativas.
+- **TypeScript & JavaScript**: Forte compreensão e aplicação de ambas as linguagens.
+- **PostgreSQL & SQL**: Experiência em projetar e consultar bancos de dados.
+- **Python**: Conhecimento no uso de Python para várias tarefas de desenvolvimento.
+- **NestJS & Express**: Habilidade em construir APIs e serviços backend.
+- **Prisma**: Experiência em trabalhar com Prisma para gerenciamento de banco de dados.
+- **Next.js & Nuxt.js**: Familiaridade com a construção de sites renderizados no servidor e estáticos.
+- **React Router DOM & Vue Router**: Proficiente em gerenciar o roteamento da aplicação.
 
-<div style="background-color: blue; width: 100px; height: 100px">Teste</div>
+---
 
-### Banco de dados
+## Entre em Contato
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- **LinkedIn**: [linkedin.com/in/nelson-rodrigues](https://www.linkedin.com/in/nelson-rodrigues-smith/)
+- **GitHub**: [github.com/JhonSmith0](https://github.com/JhonSmith0)
 
-## 📈 Estatísticas do meu GitHub
+---
 
-![Estatísticas do GitHub do Nelson Rodrigues](https://github-readme-stats.vercel.app/api?username=jhonsmith0&show_icons=true&theme=radical)
-
-## 📊 Linguagens mais usadas nos meus projetos
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonsmith0&theme=radical&layout=compact)
+Sinta-se à vontade para entrar em contato comigo.
